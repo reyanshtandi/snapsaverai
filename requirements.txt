@@ -1,0 +1,5 @@
+Flask==3.1.1
+gunicorn==23.0.0
+yt-dlp==2024.5.27
+SQLAlchemy==2.0.30
+Flask-SQLAlchemy==3.1.1
